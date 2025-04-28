@@ -1,0 +1,8 @@
+azure_storage==0.37.0
+azure_identity==1.17.1
+openai==1.41.1
+pandas==2.2.2
+Requests==2.32.3
+torch==2.3.1+cu118
+tqdm==4.66.2
+transformers==4.42.1
